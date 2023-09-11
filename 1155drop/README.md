@@ -1,4 +1,4 @@
-# ERC-1155 Edition Drop Minting Page using Thirdweb SDK
+## ERC-1155 Edition Drop Minting Page using Thirdweb SDK
 
 In this template, we build a page where users can claim NFTs from the [Edition Drop](https://portal.thirdweb.com/pre-built-contracts/edition-drop) contract.
 
@@ -11,7 +11,7 @@ In this template, we build a page where users can claim NFTs from the [Edition D
     ......
     ......
     ......
-    </ThirdwebProvider>
+</ThirdwebProvider>
 ```   
 ## Tools
 
