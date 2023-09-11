@@ -4,6 +4,8 @@ In this template, we build a page where users can claim NFTs from the [Edition D
 
 ## Thirdweb API KEY usage   
 
+inside `_app.tsx`   
+
 ```shell
 <ThirdwebProvider 
     clientId={process.env.TW_API_KEY}
